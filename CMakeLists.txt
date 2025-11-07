@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.26.0)
-project(Logc)
+project(logc)
 
 add_library(logc src/log.c src/log.h)
 
